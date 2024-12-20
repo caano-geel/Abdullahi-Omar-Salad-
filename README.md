@@ -1,6 +1,5 @@
-# Abdullahi-Omar-Salad-
 <h1 align="center">Hi 👋, I'm Caano-geel</h1>
-<h3 align="center">A passionate full-stuck developer from Kenya</h3>
+<h3 align="center">A passionate full-stuck developer from Kenya U+1F1F0, U+1F1EA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caano-geel&label=Profile%20views&color=0e75b6&style=flat" alt="caano-geel" /> </p>
 
